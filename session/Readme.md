@@ -1,1 +1,1 @@
-- Upload your creds.json file in this (session)folder.
+Upload your creds.json file in this (session)folder.
